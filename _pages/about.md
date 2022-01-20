@@ -15,9 +15,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in the [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with [Prof. Nasrabadi](https://nassernasrabadi.faculty.wvu.edu/). I am interested in deep learning, machine learning (ML), mathematics, pattern recognition, and computer vision. Currently, I am studying adversarial ML, network compression, interpretable ML, and unsupervised representation learning. I am also working on applications of deep learning in computer vision and biometrics.
+I am a PhD candidate in the [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with [Prof. Nasrabadi](https://nassernasrabadi.faculty.wvu.edu/). My research interersts span the areas of machine learning (ML), mathematics, pattern recognition, and computer vision. 
+I obtained my M.Sc. degree from Department of Electrical Engineering at [Sharif University of Technology](https://en.sharif.edu/), Tehran, Iran.  
 
-[\[Curriculum vitae\]](assets/Dabouei_cv_v4.pdf)
+
+[//]: # (I am a PhD candidate in the [Department of Computer Science and Electrical Engineering]&#40;https://lcsee.statler.wvu.edu/&#41; at West Virginia University, working with [Prof. Nasrabadi]&#40;https://nassernasrabadi.faculty.wvu.edu/&#41;. I obtained my M.Sc. degree from Department of Electrical Engineering at [Sharif University of Technology]&#40;https://en.sharif.edu/&#41;, Tehran, Iran. I am interested in deep learning, machine learning &#40;ML&#41;, mathematics, pattern recognition, and computer vision. Currently, I am studying adversarial ML, network compression, interpretable ML, and unsupervised representation learning. I am also working on applications of deep learning in computer vision and biometrics.)
+
+[\[Curriculum vitae\]](assets/Dabouei_cv_v5.pdf)
 
 Interests
 ----
