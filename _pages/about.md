@@ -28,7 +28,7 @@ Interests
 
 I am passionate about any ML and CV topic, but currently, these are the specials:
 
-- Adversarial ML
+- Adversarial Learning
 - Network Compression
 - Interpretable ML
-- Unsupervised Learning
+- Un/semi/weakly-supervised Learning
