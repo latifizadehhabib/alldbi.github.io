@@ -4,5 +4,5 @@ date: 2021-05-30 07:59:00-0400
 inline: true
 ---
 
-Joint XuLab to develop ML methods for computational biology. 
+Started postdoc at CMU. 
 
