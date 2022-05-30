@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in the [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with [Prof. Nasrabadi](https://nassernasrabadi.faculty.wvu.edu/). My research interests span the areas of machine learning (ML) and computer vision. 
+I am a postdoctoral researcher in the [school of computer science](https://www.cs.cmu.edu/) at Carnegie Mellon University. I got my Ph.D. in electrical engineering from the [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with [Prof. Nasrabadi](https://nassernasrabadi.faculty.wvu.edu/). My research interests span the areas of machine learning (ML) and computer vision. 
 I obtained my M.Sc. degree from the Department of Electrical Engineering at [Sharif University of Technology](https://en.sharif.edu/), Tehran, Iran.  
 
 
