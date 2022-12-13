@@ -23,7 +23,7 @@ I obtained my M.Sc. degree from the Department of Electrical Engineering at [Sha
 
 [//]: # (I am a PhD candidate in the [Department of Computer Science and Electrical Engineering]&#40;https://lcsee.statler.wvu.edu/&#41; at West Virginia University, working with [Prof. Nasrabadi]&#40;https://nassernasrabadi.faculty.wvu.edu/&#41;. I obtained my M.Sc. degree from Department of Electrical Engineering at [Sharif University of Technology]&#40;https://en.sharif.edu/&#41;, Tehran, Iran. I am interested in deep learning, machine learning &#40;ML&#41;, mathematics, pattern recognition, and computer vision. Currently, I am studying adversarial ML, network compression, interpretable ML, and unsupervised representation learning. I am also working on applications of deep learning in computer vision and biometrics.)
 
-[\[Curriculum vitae\]](assets/Dabouei_cv_v5.pdf)
+[\[Curriculum vitae\]](assets/dabouei_cv.pdf)
 
 Interests
 ----
